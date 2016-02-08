@@ -1,3 +1,3 @@
-# Personal web-site
+# Personal web-site [DEPRECATED]
 
 http://tyukhnin.com
